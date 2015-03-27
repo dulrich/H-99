@@ -2,6 +2,12 @@
 solutions to [H-99](https://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems),
 for easy access
 
+
+# redo
+
+7,13
+
+
 # license
 
 everything in this project is a basic algorithm from a public problem set.
